@@ -1,1 +1,3 @@
-# honours_science_1_dissertation_ai
+# AI Dissertation
+
+This contains the data for my AI Dissertation.
